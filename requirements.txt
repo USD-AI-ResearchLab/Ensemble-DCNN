@@ -1,0 +1,12 @@
+tensorflow
+scikit-image
+scikit-learn
+h5py
+matplotlib
+opencv-python
+graphviz
+scipy
+seaborn
+pydot
+pandas==1.5.3
+numpy==1.24.2
