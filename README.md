@@ -9,4 +9,5 @@ Please run 'pip install requirements.txt' before executing the pythons scripts a
 codes folder contains the python files and jupyter notebooks used for the project
 
 Vgg19, Resnet152, MobileNet, Inception, DenseNet169 contains the implementation of said backbone DCNNs.
-Other files contains the implementation of the said methods.
+
+Other notebooks and scripts contains the implementation of the name said methods.
