@@ -19,3 +19,7 @@ The data used for the project is courtesy of Dr.KC Santosh, Dr. Darshan Ruikar a
 
 The paper for the data titled ***5K+ CT images on fractured limbs: A dataset for
 Medical Imaging Research*** was published at ***Journal of Medical Systems***, link of the paper available on ***https://link.springer.com/article/10.1007/s10916-021-01724-9*** 
+
+
+### Model Availability
+Trained models are available for inference on a request basis
